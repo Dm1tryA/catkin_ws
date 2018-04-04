@@ -1,0 +1,2 @@
+dialogflow_ros:my_package
+-DCATKIN_DEVEL_PREFIX=/home/dmitry/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dmitry/catkin_ws/install -G Unix Makefiles
